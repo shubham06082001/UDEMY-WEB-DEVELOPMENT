@@ -1,0 +1,44 @@
+body
+{
+  background: url("images/bg2.jpg") center center fixed no-repeat;
+  text-align: center;
+    background-size: cover;
+    background-size: 100% 100%;
+  
+  
+
+}
+.heading {
+	color: white;
+    margin: 10px auto;
+    
+    font-size: 80px;
+    font-family: monospace;
+    text-align: center;
+    border: 4px double gold ;
+    
+}
+
+.bucket {
+	color: gold;
+    font-size: 45px;
+    text-align: center;
+    float: left;
+    margin: 10px auto;
+    padding: 20px;
+    font-family: fantasy;
+    
+    
+}
+.dice {
+	height: 200px;
+    width: 200px;
+    
+}
+.status {
+	color: yellow;
+    font-size: 40px;
+    font-family: impact;
+    border: 2px  solid #abf466;
+    margin: 40px auto;
+}
